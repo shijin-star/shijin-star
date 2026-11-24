@@ -18,7 +18,7 @@ Final-year B.E. Computer Science and Engineering student at Good Shepherd Colleg
 Check my pinned repositories below.
 
 ## 📫 Contact
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: [https://www.linkedin.com/in/shijin-g-58249442a]
+- Email: [gshijin2004@gmail.com]
 
 Languages: Tamil, English
